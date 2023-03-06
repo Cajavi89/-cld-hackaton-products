@@ -1,0 +1,10 @@
+.interFamily {
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+  font-size: 1.5rem;
+  color: #f5fafa;
+}
+
+.bgColorDarkBlue {
+  background-color: #17224d;
+}
